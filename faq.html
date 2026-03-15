@@ -13,7 +13,6 @@ faq:
     answer: A instalação de ambos os softwares segue o mesmo fluxo e dispensa terminal ou build local. O usuário deve fazer um fork do repositório no GitHub, ativar o GitHub Pages nas configurações do fork, criar um repositório privado para armazenar os dados e gerar um Personal Access Token com escopo repo. Em seguida, basta acessar a URL publicada pelo GitHub Pages e preencher as credenciais na tela de login.
 ---
 
-{% if page.faq %}
 	<h2>FAQ</h2>
 	<dl class="faq">
 		{% for item in page.faq %}
@@ -23,4 +22,3 @@ faq:
 			</div>
 		{% endfor %}
 	</dl>
-{% endif %}
