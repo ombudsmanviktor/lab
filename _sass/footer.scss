@@ -7,6 +7,7 @@
 	@media #{$tablet} {
 		-webkit-flex: 1 0 180px;
 		flex: 1 0 180px;
+		max-width: 250px !important;
 	}
 
 	li {
