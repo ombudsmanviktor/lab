@@ -10,11 +10,11 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Download SucupiraLAB
+- name: SucupiraLAB
   link: /
   new_window: true
   highlight: true
-- name: Download pqLAB
+- name: pqLAB
   link: /
   new_window: true
   highlight: true
