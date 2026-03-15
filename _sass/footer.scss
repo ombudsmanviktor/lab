@@ -2,6 +2,7 @@
 	width: 100%;
 	margin: 10px;
 	padding: 0;
+	max-width: 250px !important;
 
 	@media #{$tablet} {
 		-webkit-flex: 1 0 180px;
@@ -11,7 +12,6 @@
 	li {
 		list-style: none;
 		margin: 15px auto;
-		max-width: 250px !important;
 
 		@media #{$tablet} {
 			max-width: 150px;
