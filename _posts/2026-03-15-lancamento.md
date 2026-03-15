@@ -8,7 +8,7 @@ author_staff_member: ombudsmanviktor
 
 **Lançamento público das versões 0.1β do SucupiraLAB e do pqLAB**
 
-<img src="images/hero.png">
+<img src="/images/hero.png">
 
 O coLAB/UFF torna público o lançamento das versões 0.1β duas ferramentas web de apoio à gestão e à organização da pesquisa acadêmica: o SucupiraLAB e o pqLAB, ambas desenvolvidas por Viktor Chagas com auxílio do Claude Code Sonnet v4.6 e disponibilizadas sob licença GPL-3.0.
 
