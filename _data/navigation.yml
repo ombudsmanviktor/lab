@@ -1,5 +1,5 @@
-- name: Pricing
-  link: /pricing/
+- name: FAQ
+  link: /faq/
   new_window: false
   highlight: false
 - name: Blog
@@ -10,15 +10,11 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
+- name: Download SucupiraLAB
   link: /
   new_window: true
-  highlight: false
-- name: Sign Up
+  highlight: true
+- name: Download pqLAB
   link: /
   new_window: true
   highlight: true
