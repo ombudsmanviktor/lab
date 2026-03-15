@@ -7,16 +7,16 @@
     link: /faq/
 - links:
   - name: Demo SucupiraLAB
-    link: /
+    link: https://sucupiralab.ombudsmanviktor.me/
     new_window: true
   - name: Instalar SucupiraLAB
-    link: /
+    link: https://github.com/ombudsmanviktor/sucupiralab
     new_window: true
   - name: Demo pqLAB
-    link: /
+    link: https://pqlab.ombudsmanviktor.me/
     new_window: true
   - name: Instalar pqLAB
-    link: /
+    link: https://github.com/ombudsmanviktor/pqlab
     new_window: true
 - links:
   - name: coLAB
