@@ -1,13 +1,13 @@
-- name: FAQ
-  link: /faq/
+- name: Sobre
+  link: /about/
   new_window: false
   highlight: false
 - name: Blog
   link: /blog/
   new_window: false
   highlight: false
-- name: Sobre
-  link: /about/
+- name: FAQ
+  link: /faq/
   new_window: false
   highlight: false
 - name: SucupiraLAB
