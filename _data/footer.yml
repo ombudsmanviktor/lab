@@ -20,14 +20,14 @@
     new_window: true
 - links:
   - name: coLAB
-    link: https://facebook.com/cloudcannon/
+    link: http://colab-uff.github.io
     new_window: true
     social_icon: RSS
   - name: '@colab.uff'
-    link: https://twitter.com/cloudcannon/
+    link: https://instagram.com/colab.uff/
     social_icon: Instagram
     new_window: true
   - name: '@ombudsmanviktor'
-    link: https://youtube.com/cloudcannon/
+    link: https://instagram.com/ombudsmanviktor/
     social_icon: Instagram
     new_window: true
