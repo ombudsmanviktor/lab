@@ -11,10 +11,10 @@
   new_window: false
   highlight: false
 - name: SucupiraLAB
-  link: /
+  link: http://sucupiralab.ombudsmanviktor.me
   new_window: true
   highlight: true
 - name: pqLAB
-  link: /
+  link: http://pqlab.ombudsmanviktor.me
   new_window: true
   highlight: true
