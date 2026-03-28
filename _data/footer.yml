@@ -18,6 +18,12 @@
   - name: Instalar pqLAB
     link: https://github.com/ombudsmanviktor/pqlab
     new_window: true
+  - name: Demo xoxoLAB
+    link: https://xoxolab.ombudsmanviktor.me/
+    new_window: true
+  - name: Instalar xoxoLAB
+    link: https://github.com/ombudsmanviktor/xoxolab
+    new_window: true
 - links:
   - name: coLAB
     link: http://colab-uff.github.io
